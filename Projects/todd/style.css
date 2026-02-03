@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:#393f4d;
+   font-family: Dancing Script;
+  color:
+}
+h2 {
+  color: #000070;
+}
+
+li {
+  color: #000070;
+}
+<h2> References & Sources </h2>
+<li> Athletes Mental Health Foundation. (3/5/24). "The Paradox of Mental Health and Sports, with Dr. Tiffany and Katie". www.athletesmentalhealthfoundation.org/video-resources/v/the-paradox-of-mental-health-and-sports-with-dr-tiffany-katie </li>
+      <li> Athletes Mental Health Foundation. (1/4/24). "Mental Health in Sport is Not a Weakness, with Dr. Tiffany and Katie". www.athletesmentalhealthfoundation.org/video-resources/v/mental-health-in-sport-is-not-a-weakness-with-dr-tiffany-katie </li>
+      <li> Athletes For Hope Foundation. https://www.athletesforhope.org/ </li>
+      <li> Aaron Hernandez Wikipedia Page. https://en.wikipedia.org/wiki/Aaron_Hernandez </li>
+      <li> Antonio Brown Wikipedia Page. https://en.wikipedia.org/wiki/Antonio_Brown </li>
+      <li> Junior Seau Wikipedia Page.
+https://en.wikipedia.org/wiki/Junior_Seau </li>
+      <li> 16 Times Athletes Opened Up About Their Mental Health - Michael Phelps. https://people.com/athletes-discussing-mental-health-8695196</li>
+      <li> How NBA Players DeRozan, Love And Jordan Prioritize Mental Health. https://www.forbes.com/sites/brookchoulet/2025/05/18/the-mental-game-nba-players-derozan-love-and-jordan-prioritize-mental-health/</li> </l
+
+*{
+  margin: 0;
+  
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+
+
+header{
+  background-color: #393f4d;
+  padding: 7px 0;
+}
+.header-content{
+  text-align: center;
+  padding: 0 7px;
+  font-size: 25px;
+  color: seagreen
+}
+
+.link-button {
+  background-color:darkslategrey;
+  color: seagreen;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.nav-button {
+  background-color:darkslategrey;
+  color: seagreen;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.nav-button-2 {
+  background-color:darkslategrey;
+  color: seagreen;
+  padding: 5px 5px;
+  text-align: right;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 12px;
+  position: left;
+}
+
+html2 {
+  height: 100%;
+  width: 100%;
+  background-color:#393f4d;
+   font-family: Dancing Script;
+}
